@@ -31,9 +31,4 @@ KEY
 6: Finding Images(ms)
 7: DB Save (ms)
 8: Batch Total Time
-
-def listToString(s):
-    str1 = " "
-    return (str1.join(s))
-stripped = listToString(stripped)
 """
